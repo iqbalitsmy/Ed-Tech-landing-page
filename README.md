@@ -1,1 +1,1 @@
-# Ed-Tech-landing-page
+# legal-solution
