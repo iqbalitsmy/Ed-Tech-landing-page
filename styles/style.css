@@ -1,0 +1,43 @@
+* {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.font-eb-garamond {
+    font-weight: 800;
+    font-family: 'EB Garamond';
+}
+
+.font-secondery-p {
+    color: #707070;
+}
+.footer-text-color {
+    color: #CFCFCF;
+}
+
+.banner-bg {
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%);
+    background-image: url('../images/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    width: 100%;
+}
+
+.bg-btn {
+    background: #B68C5A;
+}
+
+.banner-p {
+    padding-top: 104px;
+    padding-bottom: 104px;
+}
+
+.bg-card-gradient {
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+.bg-contact {
+    background: #F3F3F3;
+}
